@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+
+<meta>
+  <topic id="textsmath0103090800xml" indexer="include" status="PUBLISH">
+    <title id="tit" xml-lang="en-US">Set Operations</title>
+    <filename>/text/smath/01/03090800.xhp</filename>
+  </topic>
+  <history>
+    <created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+  </history>
+</meta>
+<body>
+  <section id="set_operations">
+<bookmark xml-lang="en-US" branch="index" id="bm_id3156318">
+<bookmark_value>set operations in $[officename]Math</bookmark_value>
+<bookmark_value>sets of numbers</bookmark_value>
+<bookmark_value>included in set operator</bookmark_value>
+<bookmark_value>not included in set operator</bookmark_value>
+<bookmark_value>owns command</bookmark_value>
+<bookmark_value>includes set operator</bookmark_value>
+<bookmark_value>empty set</bookmark_value>
+<bookmark_value>intersection of sets</bookmark_value>
+<bookmark_value>union of sets</bookmark_value>
+<bookmark_value>difference set operator</bookmark_value>
+<bookmark_value>quotient set</bookmark_value>
+<bookmark_value>cardinal numbers</bookmark_value>
+<bookmark_value>subset set operators</bookmark_value>
+<bookmark_value>superset set operators</bookmark_value>
+<bookmark_value>not subset set operators</bookmark_value>
+<bookmark_value>not superset set operators</bookmark_value>
+<bookmark_value>natural numbers</bookmark_value>
+<bookmark_value>whole numbers</bookmark_value>
+<bookmark_value>real numbers</bookmark_value>
+<bookmark_value>complex numbers;set</bookmark_value>
+<bookmark_value>rational numbers</bookmark_value>
+</bookmark>
+<bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETOPERATIONS_TBX" id="bm_id3145205" localize="false"/>
+<h1 id="hd_id3156318"><link href="text/smath/01/03090800.xhp">Set Operations</link></h1>
+<paragraph role="paragraph" id="par_id3154641" xml-lang="en-US">Assign different set operators to the characters in your <emph>%PRODUCTNAME Math</emph> formula.</paragraph>
+<paragraph role="paragraph" id="par_id90801P0223">The individual operators are shown in the lower section of the <emph>Elements</emph> pane.</pargraph>
+<paragraph role="paragraph" id="par_id90801P0224">Call the <link href="text/shared/00/00000001.xhp#contextmenu">context menu</link> in the <emph>Commands</emph> window to see an identical list of the individual functions.</paragraph>
+<paragraph role="paragraph" id="par_id90801P0225">Any operators not found in the <emph>Elements</emph> pane have to be entered directly in the <emph>Commands</emph> window.</paragraph>
+<paragraph role="paragraph" id="par_id90801P0226">You can also directly insert other parts of the formula even if symbols already exist for them.</paragraph>
+  </section>
+  <section id="howtoget">
+    <embed href="text/smath/00/00000004.xhp#set_operations"/>
+  </section>
+<paragraph role="paragraph" id="par_id3149290">After selecting the <emph>Set Operations</emph> item in the <emph>Elements</emph> pane, relevant icons will be shown in the lower part of this pane.</paragraph>
+<paragraph role="paragraph" id="par_id90801P0227">Simply click a symbol to incorporate the operator in the formula being edited in the <emph>Commands</emph> window.</paragraph>
+<h3 id="hd_id3147258">The set operations in detail:</h3>
+  <table id="tbl_id3151177">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10081"><image id="img_id3145418" src="media/helpimg/starmath/op21401.svg" width="1cm" height="1cm"><alt id="alt_id3145418" xml-lang="en-US">"is included in" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XINY" id="bm_id3147512" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3154275">is included in</paragraph>
+        <paragraph role="paragraph" id="par_id3150706"><ahelp hid="HID_SMA_XINY">Use the icon to insert the <emph>is included in</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0228">You can also type <input>&lt;?&gt; in &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3154603">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN100BC"><image id="img_id3153782" src="media/helpimg/starmath/op21402.svg" width="1cm" height="1cm"><alt id="alt_id3153782" xml-lang="en-US">"is not included in" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XNOTINY" id="bm_id3153669" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3150984">is not included in</paragraph>
+        <paragraph role="paragraph" id="par_id3150997"><ahelp hid="HID_SMA_XNOTINY">Use this icon to insert the <emph>is not included in</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0229">You can also type <input>&lt;?&gt; notin &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3150357">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN100F7"><image id="img_id3150972" src="media/helpimg/starmath/op21403.svg" width="1cm" height="1cm"><alt id="alt_id3150972" xml-lang="en-US">"includes" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XOWNSY" id="bm_id3150835" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149688">includes</paragraph>
+        <paragraph role="paragraph" id="par_id3149338"><ahelp hid="HID_SMA_XOWNSY">Use this icon to insert the set operator <emph>includes</emph> with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0230">You can also type <input>&lt;?&gt; owns &lt;?&gt;</input> or <input>&lt;?&gt; ni &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3149300">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10135"><image id="img_id3155180" src="media/helpimg/starmath/op22002.svg" width="1cm" height="1cm"><alt id="alt_id3155180" xml-lang="en-US">"empty set" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_EMPTYSET" id="bm_id3143282" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149101">empty set</paragraph>
+        <paragraph role="paragraph" id="par_id3154829"><ahelp hid="HID_SMA_EMPTYSET">Use this icon to insert an <emph>empty set</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0231">You can also type <input>emptyset</input> in the <emph>Commands</emph> window, in order to insert an empty set into your document.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3149788">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1016E"><image id="img_id3147093" src="media/helpimg/starmath/op21405.svg" width="1cm" height="1cm"><alt id="alt_id3147093" xml-lang="en-US">Intersection Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XINTERSECTIONY" id="bm_id3154904" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149035">Intersection</paragraph>
+        <paragraph role="paragraph" id="par_id3147573"><ahelp hid="HID_SMA_XINTERSECTIONY">Use this icon to insert two placeholders with the set operator <emph>intersection of sets</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0232">You can also type <input>&lt;?&gt; intersection &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3152779">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN101A7"><image id="img_id3155147" src="media/helpimg/starmath/op21406.svg" width="1cm" height="1cm"><alt id="alt_id3155147" xml-lang="en-US">Union Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XUNIONY" id="bm_id3147084" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3147130">Union</paragraph>
+        <paragraph role="paragraph" id="par_id3154376"><ahelp hid="HID_SMA_XUNIONY">Use this icon to insert the <emph>union</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0233">You can also type <input>&lt;?&gt; union &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3149178">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN101E0"><image id="img_id3154922" src="media/helpimg/starmath/op21407.svg" width="1cm" height="1cm"><alt id="alt_id3154922" xml-lang="en-US">Difference Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSETMINUSY" id="bm_id3151034" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3145774">Difference</paragraph>
+        <paragraph role="paragraph" id="par_id3145786"><ahelp hid="HID_SMA_XSETMINUSY">Use this icon to insert the <emph>difference</emph> set operator.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0234">You can also type <input>&lt;?&gt; setminus &lt;?&gt;</input> or <input>&lt;?&gt; bslash &lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3156378">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1021C"><image id="img_id3148889" src="media/helpimg/starmath/op21408.svg" width="1cm" height="1cm"><alt id="alt_id3148889" xml-lang="en-US">"Quotient set" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSLASHY" id="bm_id3155918" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149536">Quotient set</paragraph>
+        <paragraph role="paragraph" id="par_id3149549"><ahelp hid="HID_SMA_XSLASHY">Use this icon to insert a slash for creating a <emph>quotient set</emph> with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0235">You can also type <input>&lt;?&gt;slash&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3150693">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10255"><image id="img_id3147473" src="media/helpimg/starmath/op22001.svg" width="1cm" height="1cm"><alt id="alt_id3147473" xml-lang="en-US">"aleph" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_ALEPH" id="bm_id3147490" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3147500">aleph</paragraph>
+        <paragraph role="paragraph" id="par_id3145263"><ahelp hid="HID_SMA_ALEPH">Use this icon to insert a <emph>cardinal number</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0236">You can also type <input>aleph</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3145134">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1028E" xml-lang="en-US"><image id="img_id3155974" src="media/helpimg/starmath/op21409.svg" width="1cm" height="1cm"><alt id="alt_id3155974" xml-lang="en-US">Subset Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSUBSETY" id="bm_id3150552" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3150561" xml-lang="en-US">Subset</paragraph>
+        <paragraph role="paragraph" id="par_id3156227" xml-lang="en-US"><ahelp hid="HID_SMA_XSUBSETY">Use this icon to insert the <emph>is a subset of</emph> set operator.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0237">You can also type <input>&lt;?&gt;subset&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3146329">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN102C9"><image id="img_id3147119" src="media/helpimg/starmath/op21410.svg" width="1cm" height="1cm"><alt id="alt_id3147119" xml-lang="en-US">"Subset or equal to" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSUBSETEQY" id="bm_id3147600" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3147448">Subset or equal to</paragraph>
+        <paragraph role="paragraph" id="par_id3147460"><ahelp hid="HID_SMA_XSUBSETEQY">Use this icon to insert the <emph>is a subset or equal to</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0238">You can also type <input>&lt;?&gt;subseteq&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3155562">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10304"><image id="img_id3147065" src="media/helpimg/starmath/op21411.svg" width="1cm" height="1cm"><alt id="alt_id3147065" xml-lang="en-US">Superset Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSUPSETY" id="bm_id3154779" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3154788">Superset</paragraph>
+        <paragraph role="paragraph" id="par_id3151088"><ahelp hid="HID_SMA_XSUPSETY">Use this icon to insert the set operator <emph>is a superset of</emph> and two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0239">You can also type <input>&lt;?&gt;supset&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3153789">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1033F"><image id="img_id3154590" src="media/helpimg/starmath/op21412.svg" width="1cm" height="1cm"><alt id="alt_id3154590" xml-lang="en-US">"Superset or equal to" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XSUPSETEQY" id="bm_id3153295" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3153305">Superset or equal to</paragraph>
+        <paragraph role="paragraph" id="par_id3151119"><ahelp hid="HID_SMA_XSUPSETEQY">Use this icon to insert the set operator <emph>is a super set or equal to</emph> with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0240">You can also type <input>&lt;?&gt;supseteq&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3145344">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1037A"><image id="img_id3149318" src="media/helpimg/starmath/op21413.svg" width="1cm" height="1cm"><alt id="alt_id3149318" xml-lang="en-US">"not subset" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XNSUBSETY" id="bm_id3149324" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3150454">not subset</paragraph>
+        <paragraph role="paragraph" id="par_id3153968"><ahelp hid="HID_SMA_XNSUBSETY">Use this icon to insert the <emph>not subset</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0241">You can also type <input>&lt;?&gt;nsubset&lt;?&gt;</input> in the <emph>Commands</emph> windows.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3150920">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN103B7"><image id="img_id3151193" src="media/helpimg/starmath/op21414.svg" width="1cm" height="1cm"><alt id="alt_id3151193" xml-lang="en-US">"not subset or equal to" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XNSUBSETEQY" id="bm_id3149778" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149236">not subset or equal to</paragraph>
+        <paragraph role="paragraph" id="par_id3149249"><ahelp hid="HID_SMA_XNSUBSETEQY">Use this icon to insert the <emph>not subset or equal</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0242">You can also type <input>&lt;?&gt;nsubseteq&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3153231">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN103F4"><image id="img_id3146956" src="media/helpimg/starmath/op21415.svg" width="1cm" height="1cm"><alt id="alt_id3146956" xml-lang="en-US">"not superset" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XNSUPSETY" id="bm_id3148787" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3148796">not superset</paragraph>
+        <paragraph role="paragraph" id="par_id3149995"><ahelp hid="HID_SMA_XNSUPSETY">Use this icon to insert the <emph>not superset</emph> set operator with two placeholders.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0243">You can also type <input>&lt;?&gt;nsupset&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3149357">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10431"><image id="img_id3151223" src="media/helpimg/starmath/op21416.svg" width="1cm" height="1cm"><alt id="alt_id3151223" xml-lang="en-US">"not superset or equal to" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_XNSUPSETEQY" id="bm_id3151229" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3155798">not superset or equal to</paragraph>
+        <paragraph role="paragraph" id="par_id3155810"><ahelp hid="HID_SMA_XNSUPSETEQY">Use this icon to insert the <emph>not superset or equal</emph> set operator with two placeholders.</ahelp>
+        <paragraph role="paragraph" id="par_id90801P0244">You can also type <input>&lt;?&gt;nsupseteq&lt;?&gt;</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3154243">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN1046E"><image id="img_id3156087" src="media/helpimg/starmath/op21417.svg" width="1cm" height="1cm"><alt id="alt_id3156087" xml-lang="en-US">"Set of natural numbers" Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETN" id="bm_id3148805" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3148815">Set of natural numbers</paragraph>
+        <paragraph role="paragraph" id="par_id3154352"><ahelp hid="HID_SMA_SETN">Use this icon to insert a character for the <emph>set of natural numbers</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0245">You can also type <input>setn</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3154613">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN104A7"><image id="img_id3147383" src="media/helpimg/starmath/op21418.svg" width="1cm" height="1cm"><alt id="alt_id3147383" xml-lang="en-US">Set of whole numbers Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETZ" id="bm_id3154008" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149628">Set of whole numbers</paragraph>
+        <paragraph role="paragraph" id="par_id3149641"><ahelp hid="HID_SMA_SETZ">Use this icon to insert a character for the <emph>set of whole numbers</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0246">You can also type <input>setz</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3150669">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN104E0"><image id="img_id3154038" src="media/helpimg/starmath/op21419.svg" width="1cm" height="1cm"><alt id="alt_id3154038" xml-lang="en-US">Set of rational numbers Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETQ" id="bm_id3149951" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149961">Set of rational numbers</paragraph>
+        <paragraph role="paragraph" id="par_id3149974"><ahelp hid="HID_SMA_SETQ">Use this icon to insert a character for the <emph>set of rational numbers</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0247">You can also type <input>setq</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3147286">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10519"><image id="img_id3149625" src="media/helpimg/starmath/op21420.svg" width="1cm" height="1cm"><alt id="alt_id3149625" xml-lang="en-US">Set of real numbers Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETR" id="bm_id3145653" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3145663">Set of real numbers</paragraph>
+        <paragraph role="paragraph" id="par_id3148709"><ahelp hid="HID_SMA_SETR">Use this icon to insert a character for the <emph>set of real numbers</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0248">You can also type <input>setr</inputh> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+  <table id="tbl_id3155359">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_idN10552"><image id="img_id3155555" src="media/helpimg/starmath/op21421.svg" width="1cm" height="1cm"><alt id="alt_id3155555" xml-lang="en-US">Set of complex numbers Icon</alt></image></paragraph>
+        <bookmark xml-lang="en-US" branch="hid/STARMATH_HID_SMA_SETC" id="bm_id3149510" localize="false"/>
+      </tablecell>
+      <tablecell>
+        <paragraph role="tablehead" id="par_id3149519">Set of complex numbers</paragraph>
+        <paragraph role="paragraph" id="par_id3148672"><ahelp hid="HID_SMA_SETC">Use this icon to insert a character for the <emph>set of complex numbers</emph>.</ahelp></paragraph>
+        <paragraph role="paragraph" id="par_id90801P0249">You can also type <input>setc</input> in the <emph>Commands</emph> window.</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+<warning id="par_id3154224">Be sure to leave spaces (gaps) between values and commands when entering them manually in the <emph>Commands</emph> window. This ensures that the correct structure is achieved.</warning>
+</body>
+</helpdocument>
