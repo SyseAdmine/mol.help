@@ -13,6 +13,8 @@ For now, first cleanups and improvements are done in module
 
 We (at LibreOffice)) would love to get rid of .xhp and use HTML5 as source and target of translations.
 
-This repo is a private experiment of mine. 
+This repo is a private experiment of mine.
+
+After finishing my initial commits I want to experiment with HUGO and SPHINX.
 
 Any help appreciated.
