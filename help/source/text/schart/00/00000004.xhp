@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+
+<meta>
+  <topic id="textschart0000000004xml" indexer="exclude">
+    <title id="tit" xml-lang="en-US">To access this function...</title>
+    <filename>/text/schart/00/00000004.xhp</filename>
+  </topic>
+</meta>
+<body>
+<h1 id="hd_id3156023"><variable id="wie">To access this function...</variable></h1>
+  <section id="view_chart_data">
+<paragraph role="paragraph" id="par_id3150791">Choose <menuitem>View - Chart Data Table</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3154686" xml-lang="en-US">On <emph>Formatting</emph> bar, click</paragraph>
+    <table id="tbl_id3149260">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3153728"><image id="img_id3147428" src="cmd/sc_grid.png" width="1cm" height="1cm"><alt id="alt_id3147428" xml-lang="en-US">Chart Data Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3154942">Chart Data</paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+<paragraph role="paragraph" id="par_id3153160"><variable id="efgttl">Choose <menuitem>Insert - Titles</menuitem> (Charts).</variable></paragraph>
+  <section id="insert_legend">
+<paragraph role="paragraph" id="par_id3149121">Choose <menuitem>Insert - Legend</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3155444">Choose <menuitem>Format - Legend - Position</menuitem> tab (Charts).</paragraph>
+  </section>
+  <section id="insert_data_labels">
+<paragraph role="paragraph" id="par_id3156385">Choose <menuitem>Insert - Data Labels</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3147341">Choose <menuitem>Format - Format Selection - Data Point/Data Series - Data Labels</menuitem> tab (for data series and data point) (Charts).</paragraph>
+  </section>
+<paragraph role="paragraph" id="par_id3149565"><variable id="efgaug">Choose <menuitem>Insert - Axes</menuitem> (Charts).</variable></paragraph>
+  <section id="insert_grids">
+<paragraph role="paragraph" id="par_id3150297">Choose <menuitem>Insert - Grids</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3145789">On <emph>Formatting</emph> bar, click</paragraph>
+    <table id="tbl_id3150346">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3150307"><image id="img_id3155111" src="cmd/sc_togglegridhorizontal.png" width="1cm" height="1cm"><alt id="alt_id3155111" xml-lang="en-US">Horizontal Grids Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3155378">Horizontal Grids</paragraph>
+        </tablecell>
+      </tablerow>
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3145384"><image id="img_id3152989" src="cmd/sc_togglegridvertical.png" width="1cm" height="1cm"><alt id="alt_id3152989" xml-lang="en-US">Vertrical Grids Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3153067">Vertical Grids</paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+<paragraph role="paragraph" id="par_id3148869"><variable id="efgsta">Choose <menuitem>Insert - X Error Bars</menuitem>, or <menuitem>Insert - Y Error Bars</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id1061738"><variable id="trendlines">Choose <menuitem>Insert - Trend Line</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3154532"><variable id="sonderz">Choose <menuitem>Insert - Special Character</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3153246"><variable id="frtoes">Choose <menuitem>Format - Format Selection</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3150214"><variable id="frtodd">Choose <menuitem>Format - Format Selection - Data Point</menuitem> dialog (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3154765"><variable id="frtodr">Choose <menuitem>Format - Format Selection - Data Series</menuitem> dialog (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3153009"><variable id="optionen">Choose <menuitem>Format - Format Selection - Data Series - Options</menuitem> tab (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3154707"><variable id="frtttl">Choose <menuitem>Format - Title</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3155758"><variable id="frtoe">Choose <menuitem>Format - Format Selection - Title</menuitem> dialog (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3153075"><variable id="frtegt">Choose <menuitem>Format - Format Selection - Title</menuitem> dialog (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3149048"><variable id="frttya">Choose <menuitem>Format - Title</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3147402"><variable id="frttyab">Choose <menuitem>Format - Axis</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3147297"><variable id="frtlgd">Choose <menuitem>Format - Legend</menuitem>, or <menuitem>Format - Format Selection - Legend</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3157876"><variable id="frtaa">Choose <menuitem>Format - Axis - X Axis/Secondary X Axis/Z Axis/All Axes</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3146883"><variable id="frtyas">Choose <menuitem>Format - Axis - Y Axis/Secondary Y Axis</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3149349"><variable id="frtysk">Choose <menuitem>Format - Axis - Y Axis - Scale</menuitem> tab (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id1006200812385491"><variable id="positioning">Choose <menuitem>Format - Axis - X Axis - Positioning</menuitem> tab (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id31493459"><variable id="positioningy">Choose <menuitem>Format - Axis - Y Axis - Positioning</menuitem> tab (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3150477"><variable id="frtgt">Choose <menuitem>Format - Grid</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3150746"><variable id="frtgtr">Choose <menuitem>Format - Grid - X, Y, Z Axis Major Grid/ X, Y, Z Minor Grid/ All Axis Grids</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3145828"><variable id="frtdgw">Choose <menuitem>Format - Chart Wall - Chart</menuitem> dialog (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3153039"><variable id="frtdgb">Choose <menuitem>Format - Chart Floor</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3150141"><variable id="frtdgf">Choose <menuitem>Format - Chart Area</menuitem> (Charts).</variable></paragraph>
+<paragraph role="paragraph" id="par_id3155830">Choose <menuitem>Format - Chart Type</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3145140">On <emph>Formatting</emph> bar, click</paragraph>
+  <table id="tbl_id3153933">
+    <tablerow>
+      <tablecell>
+        <paragraph role="paragraph" id="par_id3148582"><image id="img_id3153124" src="cmd/sc_diagramtype.png" width="1cm" height="1cm"><alt id="alt_id3153124" xml-lang="en-US">Edit Chart Type Icon</alt></image></paragraph>
+      </tablecell>
+      <tablecell>
+        <paragraph role="paragraph" id="par_id3155956">Edit Chart Type</paragraph>
+      </tablecell>
+    </tablerow>
+  </table>
+<paragraph role="paragraph" id="par_id3155621"><variable id="frtdda">Choose <menuitem>Format - 3D View</menuitem> (Charts).</variable></paragraph>
+  <section id="arrangement">
+<paragraph role="paragraph" id="par_id3150661">Choose <menuitem>Format - Arrangement</menuitem> (Charts).</paragraph>
+<paragraph role="paragraph" id="par_id3153046">Open context menu - choose <menuitem>Arrangement</menuitem> (Charts).</paragraph>
+  </section>
+  <section id="horizontal_grid">
+    <table id="tbl_id3083450">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3163824"><image id="img_id3149708" src="cmd/sc_togglegridhorizontal.png" width="1cm" height="1cm"><alt id="alt_id3149708" xml-lang="en-US">Horizontal Grids Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3150962">Horizontal Grids</paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+  <section id="toggle_axis_descriptions">
+    <table id="tbl_id3149450">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3151183"><image id="img_id3151189" src="cmd/sc_toggleaxisdescr.png" width="1cm" height="1cm"><alt id="alt_id3151189" xml-lang="en-US">Show/Hide Axis Description Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3153210" xml-lang="en-US">Show/Hide Axis Descriptions</paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+  <section id="vertical_grid">
+    <table id="tbl_id3152928">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3156315"><image id="img_id3156322" src="cmd/sc_togglegridvertical.png" width="1cm" height="1cm"><alt id="alt_id3156322" xml-lang="en-US">Vertical Grid Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id3153153">Vertical Grids</paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+  <section id="wiz_icon">
+    <table id="tab_id721525135741575">
+      <tablerow>
+        <tablecell>
+          <paragraph role="paragraph" id="par_id441525135741575" xml-lang="en-US" localize="false"><image id="img_id3157322" src="cmd/sc_insertobjectchart.png" width="1cm" height="1cm"><alt id="alt_id3159322" xml-lang="en-US">Insert Chart Icon</alt></image></paragraph>
+        </tablecell>
+        <tablecell>
+          <paragraph id="par_id161525135741575" role="paragraph"><emph>Insert Chart</emph></paragraph>
+        </tablecell>
+      </tablerow>
+    </table>
+  </section>
+  <section id="wiz">
+<paragraph role="paragraph" id="par_id9631641">Choose <menuitem>Insert - Chart...</menuitem>.</paragraph>
+    <embed href="text/schart/00/00000004.xhp#wiz_icon"/>
+  </section>
+  <section id="wiz_ranges">
+<paragraph role="paragraph" id="par_id2985320">Choose <menuitem>Insert - Chart...</menuitem>.</paragraph>
+    <embed href="text/schart/00/00000004.xhp#wiz_icon"/>
+<paragraph role="paragraph" id="par_id1096530">Double-click a chart, then choose <menuitem>Format - Data Ranges</menuitem>.</paragraph>
+  </section>
+<paragraph role="paragraph" id="par_id733359"><variable id="smlp">In the <emph>Chart Type</emph> dialog of a <emph>Line chart</emph> or <emph>XY chart</emph> that displays lines, choose <emph>Smooth in the Lines</emph> type drop-down, then click the <emph>Properties</emph> button.</variable></paragraph>
+<paragraph role="paragraph" id="par_id8513095"><variable id="stlp">In the <emph>Chart Type</emph> dialog of a <emph>Line chart<emph> or <emph>XY chart</emph> that displays lines, choose <emph>Stepped in the Lines</emph> type drop-down, then click the <emph>Properties</emph> button.</variable></paragraph>
+</body>
+</helpdocument>
