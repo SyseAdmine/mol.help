@@ -11,6 +11,8 @@ For now, first cleanups and improvements are done in module
 
 * smath
 
-Would love to get rid of .xhp and use HTML5 as source and target of translations.
+We (at LibreOffice)) would love to get rid of .xhp and use HTML5 as source and target of translations.
+
+This repo is a private experiment of mine. 
 
 Any help appreciated.
