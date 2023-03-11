@@ -7,14 +7,21 @@ My goals are:
 * consistent wording and naming across all modules
 * best user experience in reading the resulting Help (HTML)
 
-For now, first cleanups and improvements are done in module 
+For now, first cleanups and improvements are done in folloeing modules:
 
+* schart
+* sdraw
 * smath
 
-We (at LibreOffice)) would love to get rid of .xhp and use HTML5 as source and target of translations.
+Attention: Cleanups are done without compromises regarding possibly forced retranslation of strings.
 
-This repo is a private experiment of mine.
+I would love to get rid of .xhp and use HTML5 as source and target of translations.
 
-After finishing my initial commits I want to experiment with HUGO and SPHINX.
+This repo is just a private experiment of mine.
+
+Feel free to contribute or to grab files / changed content for improvements of LibreOffice Help itself.
+
+
+
 
 Any help appreciated.
