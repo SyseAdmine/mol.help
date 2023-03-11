@@ -7,7 +7,7 @@ My goals are:
 * consistent wording and naming across all modules
 * best user experience in reading the resulting Help (HTML)
 
-For now, first cleanups and improvements are done in folloeing modules:
+For now, first cleanups and improvements are done in following modules:
 
 * schart
 * sdraw
@@ -21,7 +21,6 @@ This repo is just a private experiment of mine.
 
 Feel free to contribute or to grab files / changed content for improvements of LibreOffice Help itself.
 
+Best regards
 
-
-
-Any help appreciated.
+SophiaS
