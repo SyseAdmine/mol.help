@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+
+<meta>
+  <topic id="textschart01type_areaxhp" indexer="include" status="PUBLISH">
+    <title id="tit" xml-lang="en-US">Chart Type Area</title>
+    <filename>/text/schart/01/type_area.xhp</filename>
+  </topic>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="index" id="bm_id4130680">
+<bookmark_value>area charts</bookmark_value>
+<bookmark_value>chart types;area</bookmark_value>
+</bookmark>
+<h1 id="hd_id310678"><variable id="type_area"><link href="text/schart/01/type_area.xhp">Chart Type Area</link></variable></h1>
+<paragraph role="paragraph" id="par_id916776">On the first page of the <link href="text/schart/01/wiz_chart_type.xhp"><emph>Chart Wizard</emph></link> you can choose a chart type.</paragraph>
+  <section id="howtoget">
+    <embed href="text/schart/00/00000004.xhp#wiz"/>
+  </section>
+<h2 id="hd_id961943">Area</h2>
+<paragraph role="paragraph" id="par_id631733">An area chart shows values as points on the y axis.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0091">The x axis shows categories.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0092">The y values of each data series are connected by a line.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0093">The area between each two lines is filled with a color.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0094">The area chart's focus is to emphasize the changes from one category to the next.</paragraph>
+<paragraph role="paragraph" id="par_id7811822"><emph>Normal</emph> - this subtype plots all values as absolute y values.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0095">It first plots the area of the last column in the data range, then the next to last, and so on, and finally the first column of data is drawn.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0096">Thus, if the values in the first column are higher than other values, the last drawn area will hide the other areas.</paragraph>
+<paragraph role="paragraph" id="par_id3640247"><emph>Stacked</emph> - this subtypes plots values cumulatively stacked on each other.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0097">It ensures that all values are visible, and no data set is hidden by others.</paragraph>
+<paragraph role="paragraph" id="par_id90301P0098">However, the y values no longer represent absolute values, except for the last column which is drawn at the bottom of the stacked areas.</paragraph>
+<paragraph role="paragraph" id="par_id4585100"><emph>Percent</emph> - this subtype plots values cumulatively stacked on each other and scaled as percentage of the category total.</paragraph>
+  <section id="relatedtopics">
+    <embed href="text/shared/guide/chart_insert.xhp#chart_insert"/>
+    <embed href="text/schart/01/wiz_chart_type.xhp#wiz_chart_type"/>
+    <embed href="text/schart/01/wiz_data_range.xhp#wiz_data_range"/>
+    <embed href="text/schart/01/wiz_data_series.xhp#wiz_data_series"/>
+    <embed href="text/schart/01/wiz_chart_elements.xhp#wiz_chart_elements"/>
+  </section>
+</body>
+</helpdocument>
