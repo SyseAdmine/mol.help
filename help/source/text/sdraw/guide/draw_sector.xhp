@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+
+<meta>
+  <topic id="textsdrawguidedraw_sectorxml" indexer="include" status="PUBLISH">
+    <title id="tit" xml-lang="en-US">Drawing Sectors and Segments</title>
+    <filename>/text/sdraw/guide/draw_sector.xhp</filename>
+  </topic>
+  <history>
+    <created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+  </history>
+</meta>
+<body>
+<bookmark xml-lang="en-US" branch="index" id="bm_id3146974">
+<bookmark_value>sectors of circles/ellipses</bookmark_value>
+<bookmark_value>segments of circles/ellipses</bookmark_value>
+<bookmark_value>circle segments</bookmark_value>
+<bookmark_value>ellipses;segments</bookmark_value>
+<bookmark_value>drawing;sectors and segments</bookmark_value>
+</bookmark>
+<h1 id="hd_id3146974"><variable id="draw_sector"><link href="text/sdraw/guide/draw_sector.xhp">Drawing Sectors and Segments</link></variable></h1>
+<paragraph role="paragraph" id="par_id3147396">The <emph>Ellipse</emph> toolbar contains tools for drawing ellipses and circles.<paragraph>
+<paragraph role="paragraph" id="par_id90589P0009">You can also draw segments and sectors of circles and ellipses.</paragraph>
+<h3 id="hd_id3151075">To draw a sector of a circle or an ellipse:</h3>
+  <list type="ordered">
+    <listitem>
+      <paragraph role="paragraph" id="par_id3155335" xml-lang="en-US">Open the <emph>Ellipses</emph> toolbar and click one of the <emph>Circle Pie</emph> or <emph>Ellipse Pie</emph> icons:</paragraph>
+      <paragraph role="paragraph" id="par_id90589P0010"><image id="img_id3155768" src="cmd/sc_circlepie_unfilled.png" width="1cm" height="1cm"><alt id="alt_id3155768" xml-lang="en-US">Pie Icon</alt></image></paragraph>
+      <paragraph role="paragraph" id="par_id90589P0011">The mouse pointer changes to a cross hair with a small icon of a sector.</paragraph>
+    </listitem>
+    <listitem>
+      <paragraph role="paragraph" id="par_id3150199">Position the pointer at the edge of the circle you want to draw and drag to create the circle.</paragraph>
+      <tip id="par_id3148868">To create a circle by dragging from the center, press <switchinline select="sys"><caseinline select="MAC"><keycode>Option</keycode></caseinline><defaultinline><keycode>Alt</keycode></defaultinline></switchinline> while dragging.</tip>
+    </listitem>
+    <listitem>
+      <paragraph role="paragraph" id="par_id3145361">Release the mouse button when the circle has reached the size you want.</paragraph>
+      <paragraph role="paragraph" id="par_id90589P0012">A line corresponding to the circle radius appears in the circle.</paragraph>
+    </listitem>
+    <listitem>
+      <paragraph role="paragraph" id="par_id3149872">Position the pointer where you want to place the first boundary of the sector and click.</paragraph>
+      <note id="par_id3157871">As the radius line that follows the pointer is constrained to the circle boundaries, you can click anywhere in the document.</note>
+    </listitem>
+    <listitem>
+      <paragraph role="paragraph" id="par_id3146874">Position the pointer where you want to place the second boundary of the sector and click. The completed sector is displayed.</paragraph>
+    </listitem>
+  </list>
+<paragraph role="paragraph" id="par_id3148581">To draw a segment of a circle or ellipse, follow the steps for creating a sector based on a circle.</paragraph>
+<paragraph role="paragraph" id="par_id3153084">To draw an arc based on an ellipse, choose one of the arc icons and follow the same steps for creating a sector based on a circle.</paragraph>
+  <section id="relatedtopics">
+    <embed href="text/simpress/guide/line_draw.xhp#line_draw"/>
+  </section>
+</body>
+</helpdocument>

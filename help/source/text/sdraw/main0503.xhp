@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helpdocument version="1.0">
+
+<!--
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This file incorporates work covered by the following license notice:
+ *
+ *   Licensed to the Apache Software Foundation (ASF) under one or more
+ *   contributor license agreements. See the NOTICE file distributed
+ *   with this work for additional information regarding copyright
+ *   ownership. The ASF licenses this file to you under the Apache
+ *   License, Version 2.0 (the "License"); you may not use this file
+ *   except in compliance with the License. You may obtain a copy of
+ *   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+-->
+
+<meta>
+  <topic id="textsdrawmain0503xml" indexer="include" status="PUBLISH">
+    <title xml-lang="en-US" id="tit">$[officename] Draw Features</title>
+    <filename>/text/sdraw/main0503.xhp</filename>
+  </topic>
+  <history>
+    <created date="2003-10-31T00:00:00">Sun Microsystems, Inc.</created>
+  </history>
+</meta>
+<body>
+  <section id="features">
+<h1 id="hd_id3148797"><variable id="main0503"><link href="text/sdraw/main0503.xhp">$[officename] Draw Features</link></variable></h1>
+<paragraph role="paragraph" id="par_id3146975">%PRODUCTNAME Draw lets you create simple and complex drawings and export them in a number of common image formats.
+<paragraph role="paragraph" id="par_id90599P0011">You can also insert tables, charts, formulas and other items created in %PRODUCTNAME programs into your drawings.</paragraph>
+  </section>
+<h2 id="hd_id3147435">Vector Graphics</h2>
+<paragraph role="paragraph" id="par_id3153142">%PRODUCTNAME Draw creates vector graphics using lines and curves defined by mathematical vectors.</paragraph>
+<paragraph role="paragraph" id="par_id90599P0012">Vectors describe lines, ellipses, and polygons according to their geometry.</paragraph>
+<h2 id="hd_id3154320">Creating 3D Objects</h2>
+<paragraph role="paragraph" id="par_id3145251">You can create simple 3D objects such as cubes, spheres, and cylinders in %PRODUCTNAME Draw and even modify the light source of the objects.</paragraph>
+<h2 id="hd_id3154491">Grids and Snap Lines</h2>
+<paragraph role="paragraph" id="par_id3149379">Grids and snap lines provide a visual cue to help you align objects in your drawing.</paragraph>
+<paragraph role="paragraph" id="par_id90599P0013">You can also choose to snap an object to a grid line, snap line or to the edge of another object.</paragraph>
+<h2 id="hd_id3155601">Connecting Objects to Show Relationships</h2>
+<paragraph role="paragraph" id="par_id3149124">You can connect objects in %PRODUCTNAME Draw with special lines called &quot;connectors&quot; to show the relationship between objects.</paragraph>
+<paragraph role="paragraph" id="par_id90599P0014">Connectors attach to gluepoints on drawing objects and remain attached when the connected objects are moved.</paragraph>
+<paragraph role="paragraph" id="par_id90599P0015">Connectors are useful for creating organization charts and technical diagrams.</paragraph>
+<h2 id="hd_id3155764">Displaying Dimensions</h2>
+<paragraph role="paragraph" id="par_id3155333">Technical diagrams often show the dimensions of objects in the drawing.</paragraph>
+<paragraph role="paragraph" id="par_id90599P0016">In %PRODUCTNAME Draw, you can use dimension lines to calculate and display linear dimensions.</paragraph>
+<h2 id="hd_id3154705">Gallery</h2>
+<paragraph role="paragraph" id="par_id3154022">The <emph>Gallery</emph> contains images, animations, sounds and other items that you can insert and use in your drawings as well as other %PRODUCTNAME programs.</paragraph>
+<h2 id="hd_id3149207">Graphic File Formats</h2>
+<paragraph role="paragraph" id="par_id3155112">%PRODUCTNAME Draw can export to many common graphic file formats, such as BMP, GIF, JPG, and PNG.</paragraph>
+</body>
+</helpdocument>
